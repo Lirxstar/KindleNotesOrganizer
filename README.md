@@ -1,5 +1,9 @@
 # Kindle Notes Organizer
 
+Please use the link to access directly: https://lirxstar.github.io/KindleNotesOrganizer/
+
+请使用这个链接直接访问：https://lirxstar.github.io/KindleNotesOrganizer/
+
 A simple browser-based tool for organizing Kindle My Clippings.txt files by book.
 
 按书籍和页数顺序整理Kindle笔记，便捷好用！
